@@ -2,7 +2,9 @@
 
 **NOTE: Each of the weekly journal posts can be found in the .README markdown file. The rest of the quarterly projects may be found in separate folders within this repository.** 
 
-**Week One Reflections and Summary**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**~Week One Reflections and Summary~**
 
 ***The following log documents my journey through the UW iSchool's course LIS 590A: Directed Fieldwork, instructed by Helene Williams. This course requires students to find a host site (person or organization) willing to provide training in exchange for student contribution towards larger projects or goals. In my own case, I have connected with Drs. Tom Phillips and Ann Hidalgo of the Open Access Digital Theological Library. This summer, I will create and publish digital collections in the DTL using the Online Computer Library Center. More than anything, I am looking forward to creating something tangible that I could show to future employers as evidence of competency and vested interest in digital curation, as I anticipate a career in similar fields. My experience with computer technology is slightly more limited than my peers, so this internship should also help to mend any gaps in my knowledge of back-end website maintenance.***
 
@@ -13,3 +15,8 @@
 ***After the Zoom call, Ann suggested that our next week’s step would be choosing a topic we may use to thematically frame or center our products. There’s a slight trade-off between granularity and relevance, as broader topics have more results and greater breadth of subject than the finer topics. I have yet to choose my topic, but many possibilities are bouncing in my mind. Next week’s log should have my decisions fixed, which is exciting.***
 
 ***This week, I have been at times nervous, relaxed, left in silence, and overwhelmed with knowledge. As my progress plan stabilizes over the next few weeks, there will be less excitement but clearer vision and a greater sense of accomplishment. I can feel that good things are coming, and this GitHub page will continue to develop alongside my knowledge and experience in digital curation.***
+
+**~End of Week One Reflections and Summary~**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
