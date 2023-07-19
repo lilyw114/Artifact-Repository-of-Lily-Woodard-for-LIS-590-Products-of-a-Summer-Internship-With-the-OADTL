@@ -39,3 +39,19 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Week Four Reflections and Summary: Dated 07/18/2023**
+
+***Instead of posting on a Monday as per usual, I have waited until Tuesday evening to update my log. After a bout of food poisoning which disturbed my normal routine, I was given another opportunity to meet Ann directly over Zoom and hash out our collaborative midterm survey. Apart from updating this GitHub blog (though I have been weekly), we carefully considered my progress as an intern and how true the work I have accomplished has been to the deadlines we determined at the outset of the program. Ann was stunningly gracious in her review, and that kindness made me feel as if my hours with the OADTL have counted for something much greater than just three university credits. Of course, it feels good to have my name on something, but the conversations we've had as semi-colleagues and now friends feel empowering and enrich my experience with this Directed Fieldwork course so much more.***
+
+***As far as my first collection goes, UNAM was a bust. There simply weren't enough records with OCLC numbers for me to assemble a collection, and I emailed Ann last Wednesday in an absolute snit about it. Still wanting to work in my second language, she quickly found three other Spanish-spoken repositories which use WorldCat: LA Referencia from Latin America, Universidad Complutense de Madrid from...Spain...and another from Brazil, Pontifícia Universidade Católica do Rio Grande do Sul Porto Alegre. My top choice was the UCM repository, because in my opinion it was the most navigable and pleasant to browse. From there, Ann did some back-end technical magic (which I have yet to learn in the following weeks) and set up my first collection on the OADTL: "DTL OA Universidad Complutense Madrid Dissertations"!***
+
+***Working with UCM has been a breeze compared to the endless searching, sifting, comparing, and dissapointment of UNAM's OCLC-incompatible base. In the area of religious studies, there are an endless number of options to choose from. Although I had previously stated (and intend) to work in the area of Disability Studies, I have centred my first collection around the intersections of feminism, gender studies, and world religion. So far, I have twelve titles that are ready to go, and may be accessed by any learner with an Internet connection and some free time.***
+
+***Take a look! This image is also available in Assignment Three, but keep in mind that Assignment One and Assignment Two are still blank placeholders, as those were submitted over Canvas.***
+![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/550def2e-2429-41f7-9b76-d6f2bcf5a973)
+
+***It feels wonderful to know that I have such supportive people around me as Victoria and Ann, both of whom I feel are there to help me succeed. By the end of the quarter, I want to develop my first collection to over one hundred titles. Of course, I am vetting their relevancy, but it would be lovely to see my hard work grow into something that could be instrumental in another person's homework or even their thesis. This course, LIS 590 A: Directed Fieldwork, is something that I would reccomend to anyone who loves hands-on work, but also appreciates the training wheels process. For myself, I truly felt I was awful with computers, but on my midterm survey Ann went out of her way to comment on my proficiency. It's clear from that alone, and also from my first collection being such a success, that I'm growing and thriving under the supervision of the iSchool and the DTL.***
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
