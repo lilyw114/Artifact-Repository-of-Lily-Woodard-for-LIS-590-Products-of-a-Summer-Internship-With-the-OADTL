@@ -55,3 +55,15 @@
 ***It feels wonderful to know that I have such supportive people around me as Victoria and Ann, both of whom I feel are there to help me succeed. By the end of the quarter, I want to develop my first collection to over one hundred titles. Of course, I am vetting their relevancy, but it would be lovely to see my hard work grow into something that could be instrumental in another person's homework or even their thesis. This course, LIS 590 A: Directed Fieldwork, is something that I would reccomend to anyone who loves hands-on work, but also appreciates the training wheels process. For myself, I truly felt I was awful with computers, but on my midterm survey Ann went out of her way to comment on my proficiency. It's clear from that alone, and also from my first collection being such a success, that I'm growing and thriving under the supervision of the iSchool and the DTL.***
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Week Five Reflections and Summary: Dated 07/24/2023**
+
+***This is my first experience with a major snag in the process of building a digital collection. Last week, while on Zoom with Ann, I discovered that the titles have pulled from Universidad Complutense Madrid's online repository are not dissertations which stem from the institution itself. After all the work of formatting and selecting titles, as well as going back in and replacing their Title URLs, I found that I have been doing my collocation entirely wrong. It was quite devastating at first to accept, but thankfully my collection was still small. Fortunately, Ann walked me through the process once more, and I feel an increased sense of confidence in my ability to work with WorldSearch and the OCLC system of identifiers in order to produce a collection for the DTL.***
+
+***Do forgive my short post. This week has been challenging for a number of personal reasons, and I have to keep reminding myself that any lost hours can be made up at other points during the quarter. Still, it's a little hard to see myself producing the numerous and massive collections which I had imagined at the outset. I'm not going to let those thoughts interfere with my effort or progress, however. No matter where I land, I feel comfortable with the amount which I have learned, and its ability to help me launch my career in the future. Perhaps even my capstone could work in some of the religious themes that I have become used to browsing material for the DTL's platform.***
+
+***Here's hoping that with time, and a little elbow grease, my concerns will resolve as I gain more experience and comfort with online library systems. One major part of the issue is their diverse advanced search capabilities, but the more I see the more I know, and that's comforting in a way. Check back in soon!***
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
