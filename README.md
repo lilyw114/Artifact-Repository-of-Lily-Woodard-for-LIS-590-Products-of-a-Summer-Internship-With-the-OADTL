@@ -56,7 +56,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Week Five Reflections and Summary: Dated 07/24/2023**
+**Week Five Reflections and Summary: Dated 07/25/2023**
 
 ***This is my first experience with a major snag in the process of building a digital collection. Last week, while on Zoom with Ann, I discovered that the titles have pulled from Universidad Complutense Madrid's online repository are not dissertations which stem from the institution itself. After all the work of formatting and selecting titles, as well as going back in and replacing their Title URLs, I found that I have been doing my collocation entirely wrong. It was quite devastating at first to accept, but thankfully my collection was still small. Fortunately, Ann walked me through the process once more, and I feel an increased sense of confidence in my ability to work with WorldSearch and the OCLC system of identifiers in order to produce a collection for the DTL.***
 
