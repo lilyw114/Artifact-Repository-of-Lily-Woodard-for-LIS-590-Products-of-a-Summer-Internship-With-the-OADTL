@@ -67,10 +67,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Week Six Reflections and Summary: Dated 7/31/2023**
--MARC record delivery
--Building own collections
--Starting over and my first 50 titles
--solo work and why it's a different path from Victoria
+MARC record delivery
+Building own collections
+Starting over and my first 50 titles
+Solo work pace and why it's a different path from Victoria
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
