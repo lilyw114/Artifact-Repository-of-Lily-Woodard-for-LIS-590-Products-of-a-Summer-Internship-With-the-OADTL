@@ -66,4 +66,16 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Week Six Reflections and Summary: Dated 7/31/2023**
 
+-MARC record delivery
+-Building own collections
+-Starting over and my first 50 titles
+-solo work and why it's a different path from Victoria
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Week Seven Reflections and Summary: Dated 08/07/2023**
+
+-.KBART sheets
+-Final week crunch for deliverables
+-potential second collection
