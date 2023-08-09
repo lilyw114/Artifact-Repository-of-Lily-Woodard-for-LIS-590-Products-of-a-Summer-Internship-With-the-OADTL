@@ -67,14 +67,22 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Week Six Reflections and Summary: Dated 7/31/2023**
-MARC record delivery
-Building own collections
-Starting over and my first 50 titles
-Solo work pace and why it's a different path from Victoria
+
+***Hello again. This week, I’m feeling better, and I’m working about the same as ever. That’s good***
+
+***As I look back on the excitement I carried in previous weeks, I keep reminding myself how important it is to recognize the nonlinear path my progress and growth have been in LIS 590: Directed Fieldwork. That’s something my supervisor Ann has been absolutely instrumental in providing during this week’s meeting. Although we met at the standard scheduled time, Monday at 9:30, Victoria wasn’t there. At first, I was nervous to be in the spotlight, and have my frustrations with the OCLC/WorldShare system and my perceived lack of progress be unmasked—but I also used the opportunity to share with Ann how worried I am about not living up to my own expectations for the program so far.***
+
+***In all this time with the DTL, I’ve added titles individually. Then, a collection was created for me to work with UNAM. That failed due to a lack of available content. So, a collection was created for me to work with UCM. That failed because I wasn’t adding doctoral theses directly. Finally, I’ve deleted my collection with UCM and made a second, identical collection to which I’ve added 11 titles correctly. Just eleven. The end of the quarter is approaching and I feel like these potholes in my success come down to me alone.***
+
+***On the one hand, it’s very easy to compare myself to Victoria, and feel ashamed that I have fewer titles than her, with none in my own personal thematic collection (as I had aspired to for weeks). Immediately, Ann pointed out that I’m on a different trajectory from her entirely. Not only am I working in Spanish, but I’m also pulling titles from university libraries’ doctoral theses sections. It’s apples and oranges. To me, that acknowledgement was a relief.***
+
+***To Ann, even if I don’t produce thousands of new titles in multiple collections, I have been a success insofar as I know how to navigate the DTL system, use WorldShare’s platform and hunt for titles that are relevant and open access to readers. For the last two weeks of the course, she suggested that I concentrate on my Universidad Complutense de Madrid collection and flesh it out, but not get bogged down by my dreams of thematic collections. To the DTL, university collections are important and helpful, and I’d rather do one thing right than many things halfway.***
+
+***To me, that means the world. I take these skills away with me, not the collection itself. I am so grateful for Ann’s guidance, and I know it will carry me far now that I’m competent in creating, populating, and troubleshooting online collections—the exact thing I agreed to learn to do when I signed up for this course. Not thousands of titles. Four skills.***
+
+***All in all, my progress feels good. Ann spent the rest of the meeting teaching me about MARC record delivery, and how to find the most recent "DTL OA" (Digital Theological Library Open Access) collections which our interns are producing. I'm happier now with where I am and what I have.***
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Week Seven Reflections and Summary: Dated 08/07/2023**
--.KBART sheets
--Final week crunch for deliverables
--potential second collection
+
