@@ -86,3 +86,13 @@
 
 **Week Seven Reflections and Summary: Dated 08/07/2023**
 
+***Back again with some pleasant updates. I’m up to fifty-two titles and increasing all the time! There was a frustrating moment today where I tried to work on my collection and UCM’s server was down the whole day, but that’s alright. I’ve emailed Ann about creating another collection to work on inbetween populating my UCM collection—I think it’s a good idea. We'll see what she says, as the days drag on and the final evaluation is so soon.***
+
+***Our little team met this Monday for the penultimate hangout over Zoom. It’s been a while since I saw Victoria’s face, and it’s scary knowing I’m only meeting Ann one more time after this meeting. Thankfully, Victoria and I will stay friends over a messaging platform. We have much in common.***
+
+***That morning, Ann taught us to work with .KBART sheets, which are .XSLS compatible files that contain all the information needed to import many titles into a digital library at once. You download, check for errors, change an autofill function, and upload. Easy as that, but it often goes awry due to little errors. My first attempt was a success, and I imported five titles into a tiny collection called "Lily Training" which I'll delete after I leave the DTL. Knowing how to use the .KBART sheets is a highly useful skill for our futures, me in particular because I’m interested in public librarianship more and more as the weeks go by.***
+
+***We’re down to the final crunch, and it’s up to me to make sure that my collection is full. The DTL has one other collection from UCM with 380 titles…not sure I’ll ever get that far, but Ann says it’s irrelevant as many of my titles are likely new. No matter what happens, I will do my best, and I hope my loyal reader enjoys the final products of my eventful summer. I’ll keep you posted!***
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
