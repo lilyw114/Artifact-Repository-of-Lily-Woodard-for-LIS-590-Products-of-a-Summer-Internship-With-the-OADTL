@@ -1,6 +1,6 @@
 ## Artifact Repository of Lily Woodard for LIS-590: Products of a Summer Internship With the (Open Access) Digital Theological Library
 
-**NOTE: Each of the weekly journal posts can be found in this README.md markdown file. The rest of the quarterly projects (five assignments in total) may be found under the "Assignments" file within this repository. Assignment five contains the products of my work with my host organization, and the other projects relate to my student progress through the quarter.** 
+**NOTE: Each of the weekly journal posts can be found in this README.md markdown file. The rest of the quarterly projects (five assignments in total) may be found under the "Assignments" file within this repository. Assignment five contains images of the products of my work with my host organization, and the other projects relate to my student progress through the quarter.** 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
