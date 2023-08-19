@@ -68,7 +68,7 @@
 
 **Week Six Reflections and Summary: Dated 7/31/2023**
 
-***Hello again. This week, I’m feeling better, and I’m working about the same as ever. That’s good***
+***Hello again. This week, I’m feeling better, and I’m working about the same as ever. That’s good.***
 
 ***As I look back on the excitement I carried in previous weeks, I keep reminding myself how important it is to recognize the nonlinear path my progress and growth have been in LIS 590: Directed Fieldwork. That’s something my supervisor Ann has been absolutely instrumental in providing during this week’s meeting. Although we met at the standard scheduled time, Monday at 9:30, Victoria wasn’t there. At first, I was nervous to be in the spotlight, and have my frustrations with the OCLC/WorldShare system and my perceived lack of progress be unmasked—but I also used the opportunity to share with Ann how worried I am about not living up to my own expectations for the program so far.***
 
