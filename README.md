@@ -103,7 +103,7 @@
 
 ![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/927c0713-b579-463a-ae3a-5d19735530bd)
 ![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/f0d140ad-db26-43cf-8d48-00bc937ac790)
-![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/189ceeb2-2aa9-4075-a117-ed2c48712c6c)
+![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/2fd69bb9-9c5e-41c0-b9bd-a41018eb9685)
 
 ***DTL OA Universidad Complutense Madrid Dissertations in Religious Studies (65 titles): (link pending per acceptance of collection to Global Cooperative)***
 ***DTL OA UC Santa Cruz Dissertations in Religious Studies (23 titles): (link pending per acceptance of collection to Global Cooperative)***
