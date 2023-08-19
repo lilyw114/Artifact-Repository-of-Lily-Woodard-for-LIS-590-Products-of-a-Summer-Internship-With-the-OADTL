@@ -95,4 +95,30 @@
 ***We’re down to the final crunch, and it’s up to me to make sure that my collection is full. The DTL has one other collection from UCM with 380 titles…not sure I’ll ever get that far, but Ann says it’s irrelevant as many of my titles are likely new. No matter what happens, I will do my best, and I hope my loyal reader enjoys the final products of my eventful summer. I’ll keep you posted!***
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Week Eight (Actually, Week 10!) Reflections and Summary: Dated 08/14/2023**
 
+***Hello, loyal reader. I have made much progress since my last entry, and now I own three collections, for a total of 100+ titles! Each collection is complete and comprehensive—meaning that at the date of writing this, every single thesis or dissertation in religious studies or adjacent material released by each university is included in the collection. Here are their names (found below) and they feature my name and contact information in their "Collection Notes" as well! For each collection, I submitted a request to promote it to the Global Cooperative, but none have been approved yet. Until then, I cannot post links, but there are images in my Assignment Five folder where you can view the contents of the collections, and they will be searchable through "thedtl.org".***
+
+***DTL OA Universidad Complutense Madrid Dissertations in Religious Studies (65 titles): (link pending per acceptance of collection to Global Cooperative)***
+***DTL OA UC Santa Cruz Dissertations in Religious Studies (23 titles): (link pending per acceptance of collection to Global Cooperative)***
+***DTL OA UC Merced Dissertations in Religious Studies (22 titles): (link pending per acceptance of collection to Global Cooperative)***
+
+***As you can see, two of these collections are not from UCM. After running out of titles to add there, I bounced between several Latin American university libraries, and all came up dry. The largest issue was a lack of OCLC numbers through which I could add the titles. So, after a panicked email to Ann, I used the University of California’s eScholarship platform and pulled every title in religious studies from their Santa Cruz and Merced campuses. While it was a quick turnaround time, I am happy to announce that everything is complete.***
+
+***By the way, what the title of this entry says is true. Between nailing down the details of this Directed Fieldwork, not hearing back from Tom as he was on safari, and making contact with Ann Hidalgo, I began my training with WorldCat two weeks into the quarter. So while I’m in the final week of LIS 590, dubbed Week 10, it is actually only my eighth week of working for the DTL.***
+
+***Even so, I’m happy to say I made twenty hours a week, every week. It was not a linear progression, as my increase in skills and knowledge (from adding individual titles, to populating pre-made collections, to creating and publishing my own collections) was exponential. Much of my time was spent anxious and frozen when troubleshooting was required, but Ann was always there for me in a heartbeat, day or night. And, when I think back on my learning outcomes, I am reminded that my own expectations for the course (adding hundreds if not thousands of titles, creating disability studies themed collections) were formed in a lack of knowledge of what I would accomplish. Ann has reminded me that it’s highly useful to the DTL that I ended up creating university-themed collections, particularly in Spanish language. For specifics on my satisfactory progress, please refer to the Learning Outcome Agreement I signed, which I will paste below, for some insight into what I was tasked to achieve.***
+
+![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/8a1e34e4-420c-455a-b032-de8cc3fcbb50)
+
+***From the start of week two, I was already able to “activate titles within existing OCLC collections”, and by week three, I was starting to “create digital collections in the OCLC knowledge base” with Ann’s help. When things went awry with UNAM, as with many of the other universities I proposed building collections for, I mastered the ability to “troubleshoot discoverability and access problems in the OCLC environment.” That right there was what consumed the bulk of my time with the DTL. I feel that put together, this process demonstrates an effort towards diversity (of information content), equity (of information access), and inclusion (working in a foreign language to bring Spanish titles to the Digital Theological Library) which the UW seeks to promote by offering LIS 590.***
+
+***To me, this Directed Fieldwork was a total success, and I’m in the progress of being accepted to another site for the Fall Quarter which lies ahead. My experience and comfort with online library systems is greatly enhanced, and my ability to compete in the world of Information Science is equally supplemented by this experience. Plus, I walk away with three university credits and my efforts go towards helping a lovely organization who work hard to expand the access of academic material. It’s a lovely ending to a lovely experience, and I couldn’t be more grateful. Once my collections go global, I will return here to add links to my collections listed above.***
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***Thank you reader, for staying with me. We have reached our end...for now.***
+
+**— Lily Woodard**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
