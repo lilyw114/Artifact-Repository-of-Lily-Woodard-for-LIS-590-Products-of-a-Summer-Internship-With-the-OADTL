@@ -106,7 +106,9 @@
 ![image](https://github.com/lilyw114/Artifact-Repository-of-Lily-Woodard-for-LIS-590-Products-of-a-Summer-Internship-With-the-OADTL/assets/126448804/2fd69bb9-9c5e-41c0-b9bd-a41018eb9685)
 
 ***DTL OA Universidad Complutense Madrid Dissertations in Religious Studies (65 titles): (link pending per acceptance of collection to Global Cooperative)***
+
 ***DTL OA UC Santa Cruz Dissertations in Religious Studies (23 titles): (link pending per acceptance of collection to Global Cooperative)***
+
 ***DTL OA UC Merced Dissertations in Religious Studies (22 titles): (link pending per acceptance of collection to Global Cooperative)***
 
 ***As you can see, two of these collections are not from UCM. After running out of titles to add there, I bounced between several Latin American university libraries, and all came up dry. The largest issue was a lack of OCLC numbers through which I could add the titles. So, after a panicked email to Ann, I used the University of California’s eScholarship platform and pulled every title in religious studies from their Santa Cruz and Merced campuses. While it was a quick turnaround time, I am happy to announce that everything is complete.***
